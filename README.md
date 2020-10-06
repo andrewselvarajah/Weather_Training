@@ -1,8 +1,3 @@
 # Weather Event prediction
 
-Refer to the `madrid_weather.ipynb` for details.
-
-You may add any additional cells and code as you wish to 
-the Jupyter notebook.
-
-You can also include additional `.py` helper libraries if necessary.
+Weather training model using keras api in order to predict weather with conditions given.  The data is split with one being test data and the other is used as a training model.
